@@ -1,7 +1,12 @@
 {
   "name": "chess-stockfish",
-  "owner": { "name": "tinyapps.link", "email": "chess@tinyapps.link" },
-  "metadata": { "description": "Stockfish-grounded chess explanations for Claude." },
+  "owner": {
+    "name": "tinyapps.link",
+    "email": "chess@tinyapps.link"
+  },
+  "metadata": {
+    "description": "Chess Explainer: Stockfish-grounded chess explanations for Claude."
+  },
   "plugins": [
     {
       "name": "chess-stockfish",

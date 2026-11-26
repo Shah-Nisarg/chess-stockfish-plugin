@@ -1,4 +1,4 @@
-# Chess (Stockfish) plugin for Claude
+# Chess Explainer: a plugin for Claude
 
 Ask Claude why the engine says +3. This plugin connects Claude to Stockfish 17.1 running at
 `https://chess.tinyapps.link/mcp` (free, no sign-in) and adds a skill that teaches Claude to explain
@@ -35,3 +35,5 @@ Only positions, moves and page notes are sent to the server. See https://chess.t
 
 ## Licence
 The plugin is MIT licensed. Stockfish and python-chess are GPL-3.0 and run on the server.
+
+Chess Explainer uses the Stockfish engine and is not affiliated with the Stockfish project.
