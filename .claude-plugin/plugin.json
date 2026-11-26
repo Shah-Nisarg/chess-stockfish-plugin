@@ -1,0 +1,21 @@
+{
+  "name": "chess-stockfish",
+  "displayName": "Chess (Stockfish)",
+  "version": "0.1.0",
+  "description": "Explain any chess position with Stockfish 17.1: why the engine says +3, why a tempting move fails, and step-through board pages. Paste a screenshot, FEN or game.",
+  "author": {
+    "name": "tinyapps.link",
+    "email": "chess@tinyapps.link",
+    "url": "https://chess.tinyapps.link"
+  },
+  "homepage": "https://chess.tinyapps.link",
+  "license": "MIT",
+  "keywords": [
+    "chess",
+    "stockfish",
+    "analysis",
+    "explain",
+    "engine"
+  ],
+  "privacyPolicyUrl": "https://chess.tinyapps.link/privacy.html"
+}

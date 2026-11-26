@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "chess": { "type": "http", "url": "https://chess.tinyapps.link/mcp" }
+  }
+}

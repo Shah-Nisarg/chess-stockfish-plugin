@@ -1,0 +1,12 @@
+{
+  "name": "chess-stockfish",
+  "owner": { "name": "tinyapps.link", "email": "chess@tinyapps.link" },
+  "metadata": { "description": "Stockfish-grounded chess explanations for Claude." },
+  "plugins": [
+    {
+      "name": "chess-stockfish",
+      "source": "./",
+      "description": "Explain any chess position with Stockfish 17.1: why the engine says +3, why a tempting move fails, and step-through board pages."
+    }
+  ]
+}
