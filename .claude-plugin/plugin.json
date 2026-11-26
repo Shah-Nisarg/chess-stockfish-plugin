@@ -17,5 +17,9 @@
     "explain",
     "engine"
   ],
-  "privacyPolicyUrl": "https://chess.tinyapps.link/privacy.html"
+  "privacyPolicyUrl": "https://chess.tinyapps.link/privacy.html",
+  "repository": "https://github.com/Shah-Nisarg/chess-stockfish-plugin",
+  "documentationUrl": "https://chess.tinyapps.link",
+  "supportUrl": "https://github.com/Shah-Nisarg/chess-stockfish-plugin/issues",
+  "termsOfServiceUrl": "https://chess.tinyapps.link/terms.html"
 }
